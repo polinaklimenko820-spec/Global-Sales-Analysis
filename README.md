@@ -45,7 +45,7 @@ The interactive Tableau dashboard contains two pages:
 2. **Sales Insights** — detailed analysis of sales dynamics by continent, device, and traffic channel.
 
 **Tableau Public:**  
-PASTE_TABLEAU_LINK_HERE
+[PASTE_TABLEAU_LINK_HERE](https://public.tableau.com/app/profile/polina.klymenko/viz/GlobalSalesAnalysis_17899265248800/SalesOverview?publish=yes)
 
 ## Jupyter Notebook
 
